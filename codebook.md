@@ -21,7 +21,7 @@ The 30 subject are numbered sequentially from 1 to 30. Activity column has 6 typ
 
 6.LAYING
 
-## Measurements of the Tiday Dataset
+## Measurements of the Tidy Dataset
 1."activitylabel"
 
 2."subject"
