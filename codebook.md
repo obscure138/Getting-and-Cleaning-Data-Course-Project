@@ -10,10 +10,15 @@ Only the mean value and standard deviation were kept from the original data set.
 The 30 subject are numbered sequentially from 1 to 30. Activity column has 6 types as listed below.
 
 1.WALKING
+
 2.WALKING_UPSTAIRS
+
 3.WALKING_DOWNSTAIRS
+
 4.SITTING
+
 5.STANDING
+
 6.LAYING
 
 ## Measurements of the Tiday Dataset
